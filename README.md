@@ -5,7 +5,7 @@ I'm a web developer @100devs
 * 🖥️  See my portfolio at [my site](http://marcadrian.eu/)
 * ✉️  You can contact me at [marcadrian.it@gmail.com](mailto:marcadrian.it@gmail.com)
 * 🚀  I'm currently working on [audio-mood](http://audio-mood.cloud/)
-* 🧠  I'm learning Golang 🦫 Rust 🦀
+* 🧠  I'm learning Golang 🦫
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/marcadrian-it" target="_blank" rel="noreferrer"><img
